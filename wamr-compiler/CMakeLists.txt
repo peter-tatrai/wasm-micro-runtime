@@ -398,4 +398,4 @@ else()
                          ${UV_A_LIBS})
 endif()
 
-install (TARGETS wamrc DESTINATION bin)
+install (TARGETS wamrc)
